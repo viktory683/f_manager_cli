@@ -1,5 +1,5 @@
 # f_manager_cli
 CLI factorio mod manager
 
-info about setting.cfg
-and create setting.cfg example
+here will be info about setting.cfg
+and I will create setting.cfg example
